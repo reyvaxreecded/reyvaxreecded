@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front End Web Developement 
+- 🔭 I’m currently working on Front End Lead Developer
 - 👯 I’m looking to collaborate on Cool Open Source Project
 - ⚡ Fun fact: I Hate Spongebob 
 <!--
