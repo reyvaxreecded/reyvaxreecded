@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xavier Deredec</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
+![](https://github-trophies.vercel.app/?username=yourusername)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyvaxreecded&label=Profile%20views&color=0e75b6&style=flat" alt="reyvaxreecded" /> </p>
 
