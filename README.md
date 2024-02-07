@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Xavier Deredec</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
-![](https://github-trophies.vercel.app/?username=reyvaxreecded)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyvaxreecded&label=Profile%20views&color=0e75b6&style=flat" alt="reyvaxreecded" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyvaxreecded" alt="reyvaxreecded" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyvaxreecded" alt="reyvaxreecded" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=reyvaxreecded" alt="reyvaxreecded" /></a> </p>
 
 - 🔭 I’m currently working with **Groupe Synethis**
 
